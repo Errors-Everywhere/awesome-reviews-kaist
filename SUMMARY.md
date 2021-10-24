@@ -5,6 +5,7 @@
 ## Paper review
 
 * [\[2021 Fall\] Paper review](paper-review/2021-fall-paper-review/README.md)
+* [End-to-End Object Detection with Transformers \[Eng\]](paper-review/2021-fall-paper-review/cvpr-2020-end-to-end object detection with transformers-eng.md)
   * [\(Template\) Title \[Language\]](paper-review/2021-fall-paper-review/template-paper-review.md)
 
 ## Author's note
